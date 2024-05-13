@@ -11,7 +11,7 @@ npm run start
 
 ## APIs
 
-#### GET: http://localhost:3000/department/open-positions?department="<department-name>"
+#### GET: http://localhost:3000/department/open-positions?department="department-name"
 
 ```
 RESPONSE BODY:
